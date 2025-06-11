@@ -3,7 +3,7 @@
 	url = https://github.com/LangGraph-GUI/LangGraph-GUI-backend
 [submodule "LangGraph-GUI-frontend"]
 	path = frontend
-	url = https://github.com/LangGraph-GUI/LangGraph-GUI-Svelte
+	url = https://github.com/TheShinriel/LangGraph-GUI-Svelte
 [submodule "examples"]
 	path = examples
 	url = https://github.com/LangGraph-GUI/examples.git
